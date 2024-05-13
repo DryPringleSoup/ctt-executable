@@ -1,4 +1,4 @@
-$repoUrl = "https://raw.githubusercontent.com/DryPringleSoup/ctt-executable/main"
+$repoUrl = "https://github.com/DryPringleSoup/ctt-executable/raw/main/"
 $filePath = "CTT.exe"
 $gitUrl = $repoUrl + $filePath #make raw file url
 
