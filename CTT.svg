@@ -13,7 +13,7 @@
 		</filter>
 		<filter id="depth" x="-0.5" y="-0.5" width="2" height="2">
 			<feOffset dx="0" dy="20"/>
-			<feColorMatrix values="0.1 0 0 0 0, 0 0.1 0 0 0, 0 -0.1 0.3 0 0, 0 0 0 1 0"/>
+			<feColorMatrix values="0.15 0 0 0 0, 0 0.15 0 0 0, -0.1 -0.1 0.4 0 0, 0 0 0 1 0"/>
 			<feComposite in="SourceGraphic" operator="over"/>
 		</filter>
 		<filter id="shadingBlur" x="-0.5" y="-0.5" width="2" height="2">
